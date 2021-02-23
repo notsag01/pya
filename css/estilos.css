@@ -1,0 +1,13 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+header{
+    padding: 15px;
+    width: 100%;
+    height: 100px;
+    background-image: url(https://static.vecteezy.com/system/resources/previews/000/200/561/non_2x/christmas-background-of-bokeh-lights-and-stars-vector.jpg);
+}
+.nav{
+    
+}
