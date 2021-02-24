@@ -10,3 +10,12 @@ header{
     margin-bottom: 100px;
     box-sizing: content-box;
 }
+.carrousel{
+    border: solid 1px black;
+}
+
+
+.card{
+    margin: 10% 2%;
+    
+}
