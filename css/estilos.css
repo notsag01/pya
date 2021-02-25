@@ -24,3 +24,16 @@ a:hover{
     color: red;
     font-size: 15pt;
 }
+.publicidad{
+    animation-name: tel_pub;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in;
+    animation-duration: 10s;
+    animation-delay: 0s;
+    height: 70pt;
+    width: 100%;
+    color: gold;
+    text-align: center;
+    background-color: silver;
+    font-size: 65pt;
+}
