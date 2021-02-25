@@ -1,6 +1,7 @@
 *{
     padding: 0;
     margin: 0;
+    font-family: 'Merriweather', serif;
 }
 header{
     padding: 15px;
@@ -10,12 +11,16 @@ header{
     margin-bottom: 100px;
     box-sizing: content-box;
 }
+.navbar-brand{
+    font-family: 'Merriweather', serif;
+}
 .carrousel{
     border: solid 1px black;
 }
-
-
 .card{
     margin: 10% 2%;
-    
+}
+a:hover{
+    color: red;
+    font-size: 15pt;
 }
