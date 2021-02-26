@@ -2,13 +2,15 @@
     padding: 0;
     margin: 0;
     font-family: 'Merriweather', serif;
+
+    
 }
 header{
-    padding: 15px;
+    padding: 7.5px;
     width: 100%;
     height: 100%;
     background-image: url(https://static.vecteezy.com/system/resources/previews/000/200/561/non_2x/christmas-background-of-bokeh-lights-and-stars-vector.jpg);
-    margin-bottom: 100px;
+    margin-bottom: 50px;
     box-sizing: content-box;
 }
 .navbar-brand{
@@ -16,24 +18,22 @@ header{
 }
 .carrousel{
     border: solid 1px black;
+    height: 110px;
+    margin: 20px;
 }
 .card{
     margin: 10% 2%;
+    height: 20%;
 }
 a:hover{
     color: red;
     font-size: 15pt;
 }
-.publicidad{
-    animation-name: tel_pub;
-    animation-iteration-count: infinite;
-    animation-timing-function: ease-in;
-    animation-duration: 10s;
-    animation-delay: 0s;
-    height: 70pt;
-    width: 100%;
-    color: gold;
-    text-align: center;
-    background-color: silver;
-    font-size: 65pt;
+.contenedorBody{
+    background-color: black;
+    color: rgb(250, 214, 8);
+    border: gold 1px solid;
+}    
+.contenedorCarousel{
+    background-color: gray;
 }
