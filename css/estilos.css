@@ -2,23 +2,32 @@
     padding: 0;
     margin: 0;
     font-family: 'Merriweather', serif;
-    background-color: rgb(133, 83, 83);
+   
     box-sizing: border-box;
 
     
 }
-.navbar-brand{
-    background-color: rgb(133, 83, 83);
-}
 header{
-   
+    background-color: rgb(250, 219, 216);
+    
+}
+.navbar-brand{
+    background-color: rgb(250, 219, 216);
+}
+.contenedorCarousel{
+    margin-top: 10px;
+}
+.contenedorBody{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQhjR4zCDCQ_Q9K5wmiHjWUyf_0R9r7uRaOw&usqp=CAU);
+    object-fit: contain;
+    font-weight: bolder;
+    font-size: ;
 }
 .navbar-brand{
     font-family: 'Merriweather', serif;
 }
-.card{
-    margin: 10% 2%;
-    height: 20%;
+.card-body{
+    background: rgb(250, 219, 216);
 }
 a:hover{
     color: red;
