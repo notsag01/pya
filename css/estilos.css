@@ -3,9 +3,10 @@
     margin: 0;
     font-family: 'Merriweather', serif;
    
-    box-sizing: border-box;
-
-    
+    box-sizing: border-box;    
+}
+section{
+    padding: 5px;
 }
 header{
     background-color: rgb(250, 219, 216);
@@ -14,20 +15,16 @@ header{
 .navbar-brand{
     background-color: rgb(250, 219, 216);
 }
-.contenedorCarousel{
-    margin-top: 10px;
 }
-.contenedorBody{
+.bgBody{
     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQhjR4zCDCQ_Q9K5wmiHjWUyf_0R9r7uRaOw&usqp=CAU);
-    object-fit: contain;
-    font-weight: bolder;
-    font-size: ;
 }
 .navbar-brand{
     font-family: 'Merriweather', serif;
 }
 .card-body{
-    background: rgb(250, 219, 216);
+    background-color: rgb(250, 219, 216);
+    text-align: center;
 }
 a:hover{
     color: red;
