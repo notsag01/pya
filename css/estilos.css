@@ -24,7 +24,7 @@ header{
 .navegador{
     padding: 10px;
     list-style: none;
-    font-size: 2rem;
+    font-size: 100%;
 }
 .carrousel{
     border: solid 1px black;
@@ -35,7 +35,6 @@ header{
     color: black;
     text-shadow: -2px 1px 0 #f4ed09 , -5px 5px 0;
     font-size: 2rem;
-    letter-spacing: 2rem;
 }
 .carousel-inner{
     padding: 10px;
