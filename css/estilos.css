@@ -1,26 +1,27 @@
+/* puatas generales de body */
 *{
     padding: 0;
     margin: 0;
     font-family: 'Merriweather', serif;
-    box-sizing: border-box;
-    
+    box-sizing: border-box; 
 }
+/* encabezado */
 header{
-    padding: 7.5px;
+    padding: 15px;
     width: 100%;
-    height: 100%;
     background-image: url(https://static.vecteezy.com/system/resources/previews/000/200/561/non_2x/christmas-background-of-bokeh-lights-and-stars-vector.jpg);
     box-sizing: content-box;
+    position: sticky;
+    top: 0;
+    left: 0;
+    z-index: 10;
 }
 .navbar-brand{
     font-family: 'Merriweather', serif;
 }
 .carrousel{
     border: solid 1px black;
-    height: 110px;
-    margin: 20px;
-   
-    
+    margin-top: 200px;  
 }
 h2{
     background-image: linear-gradient(70deg,#f4ed09, white);
@@ -52,4 +53,11 @@ a:hover{
 }    
 .contenedorCarousel{
     width: 100%;
+}
+-------------------------------------------------------------------------------------------------------------------------------------
+
+/* pagina plata */
+main div div div{
+    height: 400px;
+    width: 400px;
 }
