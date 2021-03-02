@@ -37,7 +37,7 @@ header{
 .estiloLetras{
     background-image: url(https://static.vecteezy.com/system/resources/previews/000/200/561/non_2x/christmas-background-of-bokeh-lights-and-stars-vector.jpg);
     
-    color: gray;
+    color:  #8e92a7;
     text-shadow: -2px 1px 0 #f4ed09 , -5px 5px 0 black;
     font-size: 2.5rem;
 }
@@ -59,6 +59,7 @@ header{
 .btn{
     display: flex;
     justify-content: center;
+    background-color: #8e92a7;
 }
 a:hover{
     color: red;
@@ -72,8 +73,17 @@ a:hover{
     width: 100%;
 }
 footer{
-    background-color: gray;
+    background-color:  #8e92a7;
     height: 25vh;
+}
+/* pie de pagina */
+.iconos{
+    display: inline;
+}
+.icono{
+    padding: 5px;
+    margin-left: 3px;
+    font-size: 3vh;
 }
 -------------------------------------------------------------------------------------------------------------------------------------
 
