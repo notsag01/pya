@@ -32,9 +32,9 @@ header{
 }
 .estiloLetras{
     background-image: url(https://static.vecteezy.com/system/resources/previews/000/200/561/non_2x/christmas-background-of-bokeh-lights-and-stars-vector.jpg) linear-gradient(70deg,#f4ed09, white);
-    color: black;
-    text-shadow: -2px 1px 0 #f4ed09 , -5px 5px 0;
-    font-size: 2rem;
+    color: gray;
+    text-shadow: -2px 1px 0 #f4ed09 , -5px 5px 0 black;
+    font-size: 2.5rem;
 }
 .carousel-inner{
     padding: 10px;
