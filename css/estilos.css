@@ -61,10 +61,6 @@ header{
     justify-content: center;
     background-color: #8e92a7;
 }
-a:hover{
-    color: red;
-    font-size: 15pt;
-}
 .contenedorBody{
     background-image: url(https://i.pinimg.com/originals/e7/27/ad/e727ad20389df6fab853fc123146161d.jpg);
     background-attachment: fixed;
@@ -85,10 +81,13 @@ footer{
     margin-left: 3px;
     font-size: 3vh;
 }
--------------------------------------------------------------------------------------------------------------------------------------
-
 /* pagina plata */
-main div div div{
-    height: 400px;
-    width: 400px;
+.cajaDe600{
+    background-image: url(https://images.pexels.com/photos/6805854/pexels-photo-6805854.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+    background-size: cover;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-end;
 }
