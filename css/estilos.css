@@ -9,6 +9,7 @@
 header{
     padding: 15px;
     width: 100%;
+    font-size: 110%;
     background-image: url(https://static.vecteezy.com/system/resources/previews/000/200/561/non_2x/christmas-background-of-bokeh-lights-and-stars-vector.jpg);
     box-sizing: content-box;
     position: sticky;
@@ -19,15 +20,24 @@ header{
     /* navegador del header */
 .navbar-brand{
     font-family: 'Dancing Script', cursive;
-    font-weight: 200px;
+    font-weight: bolder;
+    font-size: 300%;
 }    
 /* navegador lista*/
 .navegador{
     padding: 10px;
     list-style: none;
     text-decoration: none;
-    font-size: 110%;
-    color: black;
+    font-size: 120%;
+    
+}
+.activo{
+    background-color: gold;
+}
+a:hover{
+    color: gold !important ;
+    text-shadow: -2px 1px 0 black, -5px 5px 0 #f4ed09 ;
+
 }
 
 .carrousel{
@@ -64,6 +74,7 @@ header{
     display: flex;
     justify-content: center;
     background-color: #8e92a7;
+    transform: scale(0.8);
 }
 .contenedorBody{
     background-image: url(https://i.pinimg.com/originals/e7/27/ad/e727ad20389df6fab853fc123146161d.jpg);
@@ -85,6 +96,7 @@ footer{
     margin-left: 3px;
     font-size: 3vh;
 }
+
 /* pagina plata */
 .contenedorTopDer{
     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ7GnaH-43prH3lLHz_uPl-ra1lobDk6PwBw&usqp=CAU);
@@ -99,7 +111,10 @@ footer{
     justify-content: center;
     align-items: flex-end;
 }
-.carouselDePlata{
-    width: 300px;
-    height: 300px;
+.imagenPlata2{
+    background-image: url(https://images.pexels.com/photos/6805854/pexels-photo-6805854.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+    background-size: cover;
+    color: white;
+    min-height: 400px;
+
 }
