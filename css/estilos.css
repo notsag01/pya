@@ -46,17 +46,27 @@ a:hover{
 }
 /* estilo de letras, h2 */
 .estiloLetras{
-    background-image: url(https://static.vecteezy.com/system/resources/previews/000/200/561/non_2x/christmas-background-of-bokeh-lights-and-stars-vector.jpg);
-    
     color:  #8e92a7;
     text-shadow: -2px 1px 0 #f4ed09 , -5px 5px 0 black;
     font-size: 2rem;
 }
-.carousel-inner{
-    background-image: url(https://static.vecteezy.com/system/resources/previews/000/200/561/non_2x/christmas-background-of-bokeh-lights-and-stars-vector.jpg);
-    
-
+.carouselPromociones{
+    background-color: gray;
+    font-family: 'Dancing Script', cursive;
 }
+.textoPromociones{
+    font-family: 'Dancing Script', cursive;
+}
+.carousel-inner1{
+    text-align: center;
+    box-sizing: border-box;
+    font-size: 2rem;
+    padding: 1rem;
+    margin: 2rem;
+    color: #f4ed09;
+    
+}
+
 /* caracteristicas de las CARDS */
 .card{
     margin-top: 2rem;
@@ -98,6 +108,12 @@ footer{
 }
 
 /* pagina plata */
+/* titulos */
+.titulos{
+    text-align: center;
+    font-size: 305%;
+    text-shadow: -2px 1px 0 #f4ed09 , -5px 5px 0 gray;
+}
 .contenedorTopDer{
     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ7GnaH-43prH3lLHz_uPl-ra1lobDk6PwBw&usqp=CAU);
 }
