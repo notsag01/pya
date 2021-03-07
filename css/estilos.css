@@ -118,3 +118,52 @@ footer{
     min-height: 400px;
 
 }
+/* PROMOCIONES----------------------------------- */
+.promociones1{
+    height: 600px;
+    width: 100%;
+    padding: 0;
+    margin: 0;
+    background-color: yellow;
+    box-sizing: border-box;
+    position: relative;   
+}
+.fotoPromociones1{
+    height: 400px;
+    width: 200px;
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    border: 1px black solid;
+    box-sizing: border-box;
+    
+}
+.fotoRedonda1{
+    height: 150px;
+    width: 150;
+    border-radius: 100%;
+    position: absolute;
+    top: 7%;
+    left: 10%;
+}
+.producto1{
+    position: absolute;
+    top: 35%;
+    left: 8%;
+    text-align: center;
+    font-size: 15px;
+    text-decoration: underline;
+}
+.cajatexto1{
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    top: 40%;
+    left: 5%;
+    text-align: center;
+}
+.descripcion1{
+    position: absolute;
+    text-align: center;
+    top: 45%;      
+}
