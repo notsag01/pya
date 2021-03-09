@@ -88,11 +88,10 @@ a:hover{
 }
 /* BONTONES */
 .btn{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    margin-bottom: 1px;
-   
+    display: flex;
+    justify-content: center;
+    background-color: #8e92a7;
+    transform: scale(0.8);
 }
 .contenedorBody{
     background-image: url(https://i.pinimg.com/originals/e7/27/ad/e727ad20389df6fab853fc123146161d.jpg);
@@ -142,3 +141,6 @@ footer{
     min-height: 400px;
 
 }
+
+/* PAGINA DE ORO */
+
