@@ -58,7 +58,8 @@ a:hover{
 .carouselPromociones{
     background-color: gray;
     font-family: 'Dancing Script', cursive;
-    margin-bottom: 5rem;
+    height: 8rem;
+    margin-bottom: 2rem;
 }
 .textoPromociones{
     font-family: 'Dancing Script', cursive;
