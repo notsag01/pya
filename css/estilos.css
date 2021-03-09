@@ -5,6 +5,11 @@
     font-family: 'Merriweather', serif;
     box-sizing: border-box; 
 }
+/* breadcrumb */
+.migasPan{
+    font-size: 0.8rem;
+    list-style: none;;
+}
 /* encabezado */
 header{
     padding: 15px;
@@ -53,6 +58,7 @@ a:hover{
 .carouselPromociones{
     background-color: gray;
     font-family: 'Dancing Script', cursive;
+    margin-bottom: 5rem;
 }
 .textoPromociones{
     font-family: 'Dancing Script', cursive;
@@ -72,6 +78,7 @@ a:hover{
     margin-top: 2rem;
     border: black 1px solid;
     box-shadow: black 2px 2px 2px 2px;
+    position: relative;
 }
 .card-title{
     text-align: center;
@@ -134,3 +141,6 @@ footer{
     min-height: 400px;
 
 }
+
+/* PAGINA DE ORO */
+
