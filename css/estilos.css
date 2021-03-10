@@ -77,15 +77,19 @@ a:hover{
 /* caracteristicas de las CARDS */
 .card{
     margin-top: 2rem;
+    height: 36rem;
     border: black 1px solid;
     box-shadow: black 2px 2px 2px 2px;
     position: relative;
 }
 .card-title{
     text-align: center;
+    height: 3rem;
+    text-transform: capitalize;
 }
 .card-text{
     text-align: center;
+    height: 8rem;
 }
 /* BONTONES */
 .btn{
