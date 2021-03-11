@@ -7,12 +7,6 @@
     font-family: 'Dancing Script', cursive;
     font-size: 1.5rem;
 }
-/* breadcrumb */
-.migasPan{
-    font-size: x-small;
-    height: 1rem; 
-    list-style: none;;
-}
 /* encabezado */
 header{
     padding: 15px;
@@ -29,15 +23,16 @@ header{
 .navbar-brand{
     font-family: 'Dancing Script', cursive;
     font-weight: bolder;
-    font-size: 25px;
+    font-size: 2rem;
 }    
 /* navegador lista*/
 .navegador{
     padding: 10px;
     list-style: none;
     text-decoration: none;
-    font-size: 120%;
-    
+}
+section ul li{
+    font-size: 1rem;
 }
 .activo{
     background-color: gold;
@@ -66,11 +61,6 @@ a:hover{
     color: gold;
     
 }
-.textoPromociones{
- 
-}
-
-
 /* caracteristicas de las CARDS */
 .card{
     margin-top: 2rem;
