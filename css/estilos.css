@@ -2,12 +2,15 @@
 *{
     padding: 0;
     margin: 0;
-    font-family: 'Merriweather', serif;
+    
     box-sizing: border-box; 
+    font-family: 'Dancing Script', cursive;
+    font-size: 1.5rem;
 }
 /* breadcrumb */
 .migasPan{
-    font-size: 0.8rem;
+    font-size: x-small;
+    height: 1rem; 
     list-style: none;;
 }
 /* encabezado */
@@ -52,27 +55,21 @@ a:hover{
 /* estilo de letras, h2 */
 .estiloLetras{
     color:  #8e92a7;
-    text-shadow: -2px 1px 0 #f4ed09 , -5px 5px 0 black;
+    text-shadow: -2px 1px 0 #f4ed09;
     font-size: 2rem;
 }
 .carouselPromociones{
     background-color: gray;
     font-family: 'Dancing Script', cursive;
-    height: 8rem;
-    margin-bottom: 2rem;
-}
-.textoPromociones{
-    font-family: 'Dancing Script', cursive;
-}
-.carousel-inner1{
     text-align: center;
-    box-sizing: border-box;
-    font-size: 2rem;
-    padding: 1rem;
-    margin: 2rem;
-    color: #f4ed09;
+    margin-bottom: 2rem;
+    color: gold;
     
 }
+.textoPromociones{
+ 
+}
+
 
 /* caracteristicas de las CARDS */
 .card{
@@ -84,12 +81,15 @@ a:hover{
 }
 .card-title{
     text-align: center;
-    height: 3rem;
+    height: 4rem;
     text-transform: capitalize;
+    text-decoration: underline;
+    font-weight: bolder;
 }
 .card-text{
     text-align: center;
     height: 8rem;
+    font-size: 1rem;
 }
 /* BONTONES */
 .btn{
