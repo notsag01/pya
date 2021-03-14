@@ -55,6 +55,7 @@ a:hover{
 .carouselPromociones{
     background-color: gray;
     font-family: 'Dancing Script', cursive;
+    font-size: 200%;
     text-align: center;
     margin-bottom: 2rem;
     color: gold;
