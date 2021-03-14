@@ -70,7 +70,7 @@ a:hover{
 }
 .card-title{
     text-align: center;
-    height: 4rem;
+    height: 3rem;
     text-transform: capitalize;
     text-decoration: underline;
     font-weight: bolder;
@@ -100,12 +100,12 @@ footer{
 }
 /* pie de pagina */
 .iconos{
-    display: inline;
+   
 }
 .icono{
     padding: 5px;
     margin-left: 3px;
-    font-size: 3vh;
+    font-size: 8vh;   
 }
 
 /* pagina plata */
