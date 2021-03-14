@@ -136,5 +136,27 @@ footer{
 
 }
 
-/* PAGINA DE ORO */
+/* PAGINA DE ANILLOS */
+.productoTipo{
+    width: 250px;
+    height: 400px;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ7GnaH-43prH3lLHz_uPl-ra1lobDk6PwBw&usqp=CAU);
+    border: 1px solid black;
+    box-sizing: border-box;
+    padding: 1px;
+    margin: auto;
+    
+   
+}
 
+.imgProductoTipo{
+    width: 200px;
+    height: 200px;
+    box-sizing: border-box;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.precio{
+    font-size: 120%;
+}
