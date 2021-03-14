@@ -1,7 +1,8 @@
 /* puatas generales de body */
 *{
     padding: 0;
-    margin: 0;    
+    margin: 0;
+    
     box-sizing: border-box; 
     font-family: 'Dancing Script', cursive;
     font-size: 1rem;
@@ -16,19 +17,21 @@ header{
     top: 0;
     left: 0;
     z-index: 10;
-    font-size: 150%;
     }
     /* navegador del header */
 .navbar-brand{
     font-family: 'Dancing Script', cursive;
     font-weight: bolder;
     font-size: 200%;
-}   
+}    
 /* navegador lista*/
 .navegador{
     padding: 10px;
     list-style: none;
     text-decoration: none;
+}
+section ul li{
+    font-size: 1rem;
 }
 .activo{
     background-color: gold;
@@ -86,20 +89,20 @@ a:hover{
     transform: scale(0.8);
 }
 .contenedorBody{
-    height: 8rem;
-    width: 8rem;
+    background-image: url(https://i.pinimg.com/originals/e7/27/ad/e727ad20389df6fab853fc123146161d.jpg);
+    background-attachment: fixed;
 }    
 .contenedorCarousel{
     width: 100%;
 }
-.contenedorCarousel1{
-    width: 500px;
-}
 footer{
     background-color:  #8e92a7;
-    height: 40vh;
+    height: 25vh;
 }
 /* pie de pagina */
+.iconos{
+   
+}
 .icono{
     padding: 5px;
     margin-left: 3px;
