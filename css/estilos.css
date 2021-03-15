@@ -59,8 +59,8 @@ a:hover{
     text-align: center;
     margin-bottom: 2rem;
     color: gold;
-    
 }
+
 /* caracteristicas de las CARDS */
 .card{
     margin-top: 2rem;
@@ -94,6 +94,9 @@ a:hover{
 }    
 .contenedorCarousel{
     width: 100%;
+}
+.imgPromocional{
+   
 }
 footer{
     background-color:  #8e92a7;
