@@ -96,7 +96,7 @@ a:hover{
     width: 100%;
 }
 .imgPromocional{
-   width: 90%;
+   width: 75%;
 }
 footer{
     background-color:  #8e92a7;
@@ -132,13 +132,6 @@ footer{
     flex-direction: row;
     justify-content: center;
     align-items: flex-end;
-}
-.imagenPlata2{
-    background-image: url(https://images.pexels.com/photos/6805854/pexels-photo-6805854.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
-    background-size: cover;
-    color: white;
-    min-height: 400px;
-
 }
 
 /* PAGINA DE ANILLOS */
