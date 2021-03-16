@@ -32,6 +32,7 @@ header{
     list-style: none;
     text-decoration: none;
 }
+/* tamaño del navegador de seccion */
 .navLink{
     font-size: 150%;
 }
@@ -41,9 +42,8 @@ header{
 a:hover{
     color: gold !important ;
     text-shadow: -2px 1px 0 black, -5px 5px 0 #f4ed09 ;
-
 }
-
+/* corousel */
 .carrousel{
     border: solid 1px black;
     margin-top: 200px;  
@@ -52,17 +52,15 @@ a:hover{
 .estiloLetras{
     color:  #8e92a7;
     text-shadow: -2px 1px 0 #f4ed09;
-    font-size: 2rem;
+    font-size: 4rem;
 }
 .carouselPromociones{
     background-color: gray;
     font-family: 'Dancing Script', cursive;
-    font-size: 200%;
     text-align: center;
     margin-bottom: 2rem;
     color: gold;
 }
-
 /* caracteristicas de las CARDS */
 .card{
     margin-top: 2rem;
