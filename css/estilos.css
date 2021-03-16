@@ -123,17 +123,6 @@ footer{
 .contenedorTopDer{
     background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQ7GnaH-43prH3lLHz_uPl-ra1lobDk6PwBw&usqp=CAU);
 }
-.contenedorTopIzq{
-    background-image: url(https://images.pexels.com/photos/6805854/pexels-photo-6805854.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
-    background-size: cover;
-    color: white;
-    min-height: 400px;
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
-    align-items: flex-end;
-}
-
 /* PAGINA DE ANILLOS */
 .productoTipo{
     width: 250px;
