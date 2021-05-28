@@ -4,12 +4,17 @@
     margin: 0;
     box-sizing: border-box; 
     font-family: 'Dancing Script', cursive;
-    font-size: 1rem;
 }
+@media only screen and (max-width:768px){
+    *{
+        font-size: 12px;
+    }
+}
+
 /* encabezado */
 header{
-    padding: 15px;
-    width: 100%;
+    padding: 1rem;
+    max-width: 100%;
     background-image: url(https://static.vecteezy.com/system/resources/previews/000/200/561/non_2x/christmas-background-of-bokeh-lights-and-stars-vector.jpg);
     box-sizing: content-box;
     position: sticky;
@@ -21,7 +26,7 @@ header{
 .navbar-brand{
     font-family: 'Dancing Script', cursive;
     font-weight: bolder;
-    font-size: 230%;
+    font-size: 2rem;
 }    
 .nav-link{
     font-size: 150%;
