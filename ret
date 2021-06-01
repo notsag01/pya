@@ -1,0 +1,834 @@
+[33mcommit 10acc8cb535815841bf8b94f203092e143c821f8[m[33m ([m[1;36mHEAD[m[33m, [m[1;31morigin/210528[m[33m)[m
+Author: notsag01 <79101798+notsag01@users.noreply.github.com>
+Date:   Fri May 28 16:09:49 2021 -0300
+
+    210528.2
+
+[33mcommit ea5962846108fc59e1b1a61475c9feab83c84b89[m
+Author: notsag01 <79101798+notsag01@users.noreply.github.com>
+Date:   Fri May 28 15:19:13 2021 -0300
+
+    210528.1 quedo arreglado el sobrante de ancho derecho de html, lo solucioné poniendo max-width en el header.
+
+[33mcommit 164eb5bcb4931b2ab4d1e242f0b9d4efaa955389[m
+Merge: e080e46 3cb1be9
+Author: notsag01 <79101798+notsag01@users.noreply.github.com>
+Date:   Tue Mar 16 13:24:40 2021 -0300
+
+    Merge pull request #43 from notsag01/plata_v20.4
+    
+    Plata v20.4
+
+[33mcommit 3cb1be975c39d865ff2d3481e30dba8959dc3230[m[33m ([m[1;31morigin/plata_v20.4[m[33m)[m
+Author: notsag01 <79101798+notsag01@users.noreply.github.com>
+Date:   Tue Mar 16 13:25:07 2021 -0300
+
+    limpieza y detalles seo listos
+
+[33mcommit 22aa3d3cf3060718ebb8b1a774eed0dbeaf4dd41[m
+Author: notsag01 <79101798+notsag01@users.noreply.github.com>
+Date:   Tue Mar 16 12:56:26 2021 -0300
+
+    limpieza y detalles
+
+[33mcommit e080e46f391eddc9120ea23d1e4e88578381ad66[m
+Merge: ef76659 ff37cd6
+Author: notsag01 <79101798+notsag01@users.noreply.github.com>
+Date:   Tue Mar 16 12:37:09 2021 -0300
+
+    Merge pull request #42 from notsag01/plata_v20.4
+    
+    Plata v20.4
+
+[33mcommit ff37cd61f4d8ae0d7dbbc414aaaa41e9bda0d561[m
+Author: notsag01 <79101798+notsag01@users.noreply.github.com>
+Date:   Tue Mar 16 12:37:07 2021 -0300
+
+    limpieza y detalles
+
+[33mcommit a3adacfeb997918eab84f70965059ba6299d6cdd[m[33m ([m[1;31morigin/plata_v20.3[m[33m)[m
+Author: notsag01 <79101798+notsag01@users.noreply.github.com>
+Date:   Tue Mar 16 12:29:55 2021 -0300
+
+    seo
+
+[33mcommit 19cd6ab90e4235f7e710f15480f4d5f3611367cd[m
+Author: notsag01 <79101798+notsag01@users.noreply.github.com>
+Date:   Tue Mar 16 12:22:23 2021 -0300
+
+    pagina lista falta alt fotos
+
+[33mcommit e3d0593800dc6a6230bad3a90a276ba036598fd8[m
+Author: notsag01 <79101798+notsag01@users.noreply.github.com>
+Date:   Tue Mar 16 12:03:35 2021 -0300
+
+    lista pagina de oro
+
+[33mcommit 9614a9314e69a9c4eff2f17633ebde211b5bfb1a[m
+Author: notsag01 <79101798+notsag01@users.noreply.github.com>
+Date:   Tue Mar 16 11:35:25 2021 -0300
+
+    footer listo
+
+[33mcommit ef76659ff8dd0adb1a85c21848b4a83b94955517[m
+Merge: 021a648 e7a873a
+Author: notsag01 <79101798+notsag01@users.noreply.github.com>
+Date:   Tue Mar 16 11:22:49 2021 -0300
+
+    Merge pull request #40 from notsag01/plata_v20.3
+    
+    footer casi listo, falta fb
+
+[33mcommit e7a873a8305af8adde085080de949adec38a616f[m
+Author: notsag01 <79101798+notsag01@users.noreply.github.com>
+Date:   Tue Mar 16 11:22:36 2021 -0300
+
+    footer casi listo, falta fb
+
+[33mcommit 021a648837747d6cb975c05421e0cd41715dcf30[m
+Merge: 3d737b9 adb6831
+Author: notsag01 <79101798+notsag01@users.noreply.github.com>
+Date:   Tue Mar 16 10:54:31 2021 -0300
+
+    Merge pull request #39 from notsag01/plata_v20.2
+    
+    fuente de carousel promociones
+
+[33mcommit adb68315e745c33ed458ff120e4f3edd4ab237fc[m[33m ([m[1;31morigin/plata_v20.2[m[33m)[m
+Author: notsag01 <79101798+notsag01@users.noreply.github.com>
+Date:   Tue Mar 16 10:54:29 2021 -0300
+
+    fuente de carousel promociones
+
+[33mcommit 3d737b9f1da73a58418d36bb258889b8b759594f[m
+Merge: 2b89b8d 4c020a7
+Author: notsag01 <79101798+notsag01@users.noreply.github.com>
+Date:   Tue Mar 16 10:00:36 2021 -0300
+
+    Merge pull request #38 from notsag01/plata_v20.1
+    
+    Plata v20.1
+
+[33mcommit 4c020a7af5264f4fe47a9bc0888546db32997d89[m[33m ([m[1;31morigin/plata_v20.1[m[33m)[m
+Author: notsag01 <79101798+notsag01@users.noreply.github.com>
+Date:   Tue Mar 16 10:00:05 2021 -0300
+
+    tamaño del navLink
+
+[33mcommit 0a134ff3c961c699552a8a2667a75516de813e53[m[33m ([m[1;31morigin/plata_v20[m[33m)[m
+Author: notsag01 <79101798+notsag01@users.noreply.github.com>
+Date:   Tue Mar 16 09:39:52 2021 -0300
+
+    enlaces del head terminados
+
+[33mcommit 2b89b8d43cc89eb9ceb0bc8d2d94b4bf40fb2bce[m
+Merge: 7555137 7e40402
+Author: notsag01 <79101798+notsag01@users.noreply.github.com>
+Date:   Mon Mar 15 17:34:11 2021 -0300
+
+    Merge pull request #37 from notsag01/plata_v19.1
+    
+    arreglo
+
+[33mcommit 7e404029c4c6f006abd116964bf1fd54893c72d2[m[33m ([m[1;31morigin/plata_v19.1[m[33m)[m
+Author: notsag01 <79101798+notsag01@users.noreply.github.com>
+Date:   Mon Mar 15 17:21:03 2021 -0300
+
+    arreglo
+
+[33mcommit 6de2a447de33b75956a9bed641a4065c8e7dd4fa[m
+Author: notsag01 <79101798+notsag01@users.noreply.github.com>
+Date:   Mon Mar 15 15:57:19 2021 -0300
+
+    arreglo
+
+[33mcommit 755513736c2ddd906f76a99dd1a85b2643cf08d9[m
+Merge: 827cc48 6de2a44
+Author: notsag01 <79101798+notsag01@users.noreply.github.com>
+Date:   Mon Mar 15 15:56:30 2021 -0300
+
+    Merge pull request #36 from notsag01/plata_v19.1
+    
+    arreglo
+
+[33mcommit e8a08738cccbbbbccc4552a811852dd304ba1c0c[m
+Author: notsag01 <79101798+notsag01@users.noreply.github.com>
+Date:   Mon Mar 15 15:08:55 2021 -0300
+
+    arreglo
+
+[33mcommit 827cc48499edbd16b244e1899ae195ec0ac427b4[m
+Merge: 8decbd7 e8a0873
+Author: notsag01 <79101798+notsag01@users.noreply.github.com>
+Date:   Mon Mar 15 15:08:49 2021 -0300
+
+    Merge pull request #35 from notsag01/plata_v19.1
+    
+    arreglo
+
+[33mcommit 8decbd789a3ac62de63100dceb1d424cdf55e84e[m
+Merge: 54f5059 6409cf0
+Author: notsag01 <79101798+notsag01@users.noreply.github.com>
+Date:   Mon Mar 15 15:00:11 2021 -0300
+
+    Merge pull request #34 from notsag01/plata_v19.1
+    
+    invitaciones
+
+[33mcommit 6409cf072acf74a6ab0e0428219e436790aa85da[m
+Author: notsag01 <79101798+notsag01@users.noreply.github.com>
+Date:   Mon Mar 15 13:54:47 2021 -0300
+
+    invitaciones
+
+[33mcommit 54f5059643e3d8e8a4fe3a018a8ad8d526100826[m
+Merge: 777ea7b 92c59de
+Author: notsag01 <79101798+notsag01@users.noreply.github.com>
+Date:   Mon Mar 15 11:13:48 2021 -0300
+
+    Merge pull request #33 from notsag01/plata_v19
+    
+     with de footer e iconos de index
+
+[33mcommit 92c59dee9124873d6f348b1b16c7873615d876fa[m[33m ([m[1;31morigin/plata_v19[m[33m)[m
+Author: notsag01 <79101798+notsag01@users.noreply.github.com>
+Date:   Mon Mar 15 11:12:39 2021 -0300
+
+     with de footer e iconos de index
+
+[33mcommit 777ea7b95c554732522330be9398df3bb97fc68e[m
+Merge: 685bee2 a0406d3
+Author: notsag01 <79101798+notsag01@users.noreply.github.com>
+Date:   Mon Mar 15 10:27:08 2021 -0300
+
+    Merge pull request #32 from notsag01/plata_v19
+    
+    arregle footer y breadcrumb de plata
+
+[33mcommit a0406d37003446e4099a87b24af60e7c0225d295[m
+Author: notsag01 <79101798+notsag01@users.noreply.github.com>
+Date:   Mon Mar 15 10:26:01 2021 -0300
+
+    arregle footer y breadcrumb de plata
+
+[33mcommit 685bee2d08f337f11b5d0385ab2e28919761a352[m
+Merge: 15437c4 8459446
+Author: notsag01 <79101798+notsag01@users.noreply.github.com>
+Date:   Sun Mar 14 19:31:48 2021 -0300
+
+    Merge pull request #31 from notsag01/plata_v18.5
+    
+    arreglo estilos e index
+
+[33mcommit 845944671e0e11f520e945d6349d9424238f7d54[m[33m ([m[1;31morigin/plata_v18.5[m[33m)[m
+Author: notsag01 <gcordoba1981@gmail.com>
+Date:   Sun Mar 14 19:29:55 2021 -0300
+
+    arreglo estilos e index
+
+[33mcommit 15437c4cd7858a5bbb983d4249b0935b22b5a279[m
+Merge: 637ddd7 6ca696b
+Author: notsag01 <79101798+notsag01@users.noreply.github.com>
+Date:   Sun Mar 14 19:06:18 2021 -0300
+
+    Merge pull request #30 from notsag01/plata_v18.5
+    
+    Plata v18.5
+
+[33mcommit 6ca696b74203e1003a36cb9d747bbfcd4dc18ab8[m
+Author: notsag01 <gcordoba1981@gmail.com>
+Date:   Sun Mar 14 19:05:05 2021 -0300
+
+    llegando al fin
+
+[33mcommit 09095c6d3af32c690b063ce5b0f8e785de04e116[m[33m ([m[1;31morigin/plata_v18.4[m[33m)[m
+Author: notsag01 <gcordoba1981@gmail.com>
+Date:   Sun Mar 14 17:28:51 2021 -0300
+
+    pagina dijes lista
+
+[33mcommit 34ad36f743b42bc50918e45eed32e38613548999[m
+Author: notsag01 <gcordoba1981@gmail.com>
+Date:   Sun Mar 14 17:23:54 2021 -0300
+
+    pagina dijes
+
+[33mcommit f0a97e7fd2f80afc5b28266b029b763f692ae9f4[m[33m ([m[1;31morigin/plata_v18.3[m[33m)[m
+Author: notsag01 <gcordoba1981@gmail.com>
+Date:   Sun Mar 14 16:48:59 2021 -0300
+
+    pagina acero
+
+[33mcommit 637ddd7edcf67f8d23a4590f249aedfaffac8635[m
+Merge: 6ec709e b202646
+Author: notsag01 <79101798+notsag01@users.noreply.github.com>
+Date:   Sun Mar 14 14:27:56 2021 -0300
+
+    Merge pull request #29 from notsag01/plata_v18.1
+    
+    Plata v18.1
+
+[33mcommit b202646806c8e6f99bf53538751793b966fe1e48[m[33m ([m[1;31morigin/plata_v18.1[m[33m)[m
+Author: notsag01 <gcordoba1981@gmail.com>
+Date:   Sun Mar 14 14:25:42 2021 -0300
+
+    listo pagina anillos
+
+[33mcommit 6d53ad05459f2701b962dd2d34a5dc9f407feb45[m
+Author: notsag01 <gcordoba1981@gmail.com>
+Date:   Sun Mar 14 10:56:33 2021 -0300
+
+    footer definitivo, pagina principal con nombre y descripcioes
+
+[33mcommit 6ec709e55c4c7138665ad5dd52332bf3ef6b7021[m
+Merge: fe5fa06 ee0188e
+Author: notsag01 <79101798+notsag01@users.noreply.github.com>
+Date:   Sun Mar 14 01:26:31 2021 -0300
+
+    Merge pull request #28 from notsag01/plata_1.17
+    
+    pagina anillos
+
+[33mcommit ee0188e616759d73666dae452d5cb0063877c200[m[33m ([m[1;31morigin/plata_1.17[m[33m)[m
+Author: notsag01 <gcordoba1981@gmail.com>
+Date:   Sun Mar 14 01:26:02 2021 -0300
+
+    pagina anillos
+
+[33mcommit fe5fa06214837b0eb6e20b58770a931d65c87b50[m
+Merge: f6ebe6d 976c822
+Author: notsag01 <79101798+notsag01@users.noreply.github.com>
+Date:   Fri Mar 12 09:17:59 2021 -0300
+
+    Merge pull request #27 from notsag01/plata_v1.16
+    
+    arregle el tamaño del navegador
+
+[33mcommit 976c822eea9a8441b11366c2ce72bfdc1ae547c7[m[33m ([m[1;31morigin/plata_v1.16[m[33m)[m
+Author: notsag01 <gcordoba1981@gmail.com>
+Date:   Fri Mar 12 09:16:37 2021 -0300
+
+    arregle el tamaño del navegador
+
+[33mcommit f6ebe6d1bb911e2076ec66072d4ec617cac409d6[m
+Author: notsag01 <79101798+notsag01@users.noreply.github.com>
+Date:   Thu Mar 11 18:28:13 2021 -0300
+
+    Prueba
+
+[33mcommit 0e0587826df9e24124eb6de6ab56e0eb89ea1bb1[m
+Merge: 1d71cd2 b599db5
+Author: notsag01 <79101798+notsag01@users.noreply.github.com>
+Date:   Thu Mar 11 17:24:36 2021 -0300
+
+    Merge pull request #26 from notsag01/plata_v1.15
+    
+    tamaño fuente brand}
+
+[33mcommit b599db5e344818aa5ce9b57c8f28716a897ab17d[m[33m ([m[1;31morigin/plata_v1.15[m[33m)[m
+Author: notsag01 <gcordoba1981@gmail.com>
+Date:   Thu Mar 11 17:24:30 2021 -0300
+
+    tamaño fuente brand}
+
+[33mcommit 1d71cd2ad9661868dafa34fbdbe22ac7148a4eda[m
+Merge: 5453c9a eaea740
+Author: notsag01 <79101798+notsag01@users.noreply.github.com>
+Date:   Thu Mar 11 16:51:49 2021 -0300
+
+    Merge pull request #25 from notsag01/plata_v1.15
+    
+    estilo de letra, publicidad, estilo de card
+
+[33mcommit eaea740c91545a48751b2453c267193902d4d7fb[m
+Author: notsag01 <gcordoba1981@gmail.com>
+Date:   Thu Mar 11 16:51:49 2021 -0300
+
+    estilo de letra, publicidad, estilo de card
+
+[33mcommit 5453c9a4b6b81124f7b32f77f04d98044eb17505[m
+Merge: 82c896e 19281ac
+Author: notsag01 <79101798+notsag01@users.noreply.github.com>
+Date:   Thu Mar 11 15:47:18 2021 -0300
+
+    Merge pull request #24 from notsag01/plata_v1.15
+    
+    agregue animaciones a paginas oro plata acero
+
+[33mcommit 19281acd5f99421fd305258339d020d890cd3051[m
+Author: notsag01 <gcordoba1981@gmail.com>
+Date:   Thu Mar 11 15:47:14 2021 -0300
+
+    agregue animaciones a paginas oro plata acero
+
+[33mcommit 82c896e46a7102fc9f3d73d9ef841458b80b5d22[m
+Merge: 86b2326 099ea64
+Author: notsag01 <79101798+notsag01@users.noreply.github.com>
+Date:   Thu Mar 11 15:02:36 2021 -0300
+
+    Merge pull request #23 from notsag01/plata_v1.14
+    
+    Plata v1.14
+
+[33mcommit 099ea64dba5383c5c6d8e44184e31750aaa72293[m[33m ([m[1;31morigin/plata_v1.14[m[33m)[m
+Merge: c934196 fd2438d
+Author: notsag01 <gcordoba1981@gmail.com>
+Date:   Thu Mar 11 15:02:31 2021 -0300
+
+    Merge branch 'plata_v1.14' of https://github.com/notsag01/pya into plata_v1.14
+
+[33mcommit c9341967b9f04fb6fc86e75205fdfdbfa23320be[m
+Author: notsag01 <gcordoba1981@gmail.com>
+Date:   Thu Mar 11 14:56:59 2021 -0300
+
+    prueba
+
+[33mcommit 86b2326dd9f262b024d5df4eff6f9b85210c7fce[m
+Merge: a2795aa fd2438d
+Author: notsag01 <79101798+notsag01@users.noreply.github.com>
+Date:   Thu Mar 11 12:55:38 2021 -0300
+
+    Merge pull request #22 from notsag01/plata_v1.14
+    
+    Merge pull request #21 from notsag01/main
+
+[33mcommit fd2438da7b017159279cc407275b34775d8343e1[m
+Merge: 36e0e61 a2795aa
+Author: notsag01 <79101798+notsag01@users.noreply.github.com>
+Date:   Thu Mar 11 12:54:24 2021 -0300
+
+    Merge pull request #21 from notsag01/main
+    
+    Merge pull request #20 from notsag01/plata_v1.14
+
+[33mcommit 34e55b8200cfd36f12320fb9957b76b60f6d8e67[m
+Author: notsag01 <gcordoba1981@gmail.com>
+Date:   Thu Mar 11 12:48:29 2021 -0300
+
+    envio fotos
+
+[33mcommit a2795aafc816e3fc122d4730ae9125ded7646763[m
+Merge: 38e9692 36e0e61
+Author: notsag01 <79101798+notsag01@users.noreply.github.com>
+Date:   Wed Mar 10 17:06:26 2021 -0300
+
+    Merge pull request #20 from notsag01/plata_v1.14
+    
+    Plata v1.14
+
+[33mcommit 36e0e619c337d084be53fd639cfef64ca1b10cf1[m
+Author: notsag01 <gcordoba1981@gmail.com>
+Date:   Wed Mar 10 16:54:35 2021 -0300
+
+    subi algunas fotos
+
+[33mcommit 92e40179780b1cc77ccf8400bbd370143dbd40f6[m
+Author: notsag01 <gcordoba1981@gmail.com>
+Date:   Wed Mar 10 16:42:48 2021 -0300
+
+    algunas fotos
+
+[33mcommit 38e9692e2af97cf5c6dac1a278644f794d310bee[m
+Merge: 4b16939 e95a501
+Author: notsag01 <79101798+notsag01@users.noreply.github.com>
+Date:   Tue Mar 9 17:42:18 2021 -0300
+
+    Merge pull request #19 from notsag01/plata_v1.13
+    
+    corrigiendo el corousel promociones
+
+[33mcommit e95a501c5b338f4b87eeb251352cd7a6a3bde40f[m[33m ([m[1;31morigin/plata_v1.13[m[33m)[m
+Author: notsag01 <gcordoba1981@gmail.com>
+Date:   Tue Mar 9 17:42:06 2021 -0300
+
+    corrigiendo el corousel promociones
+
+[33mcommit 4b16939ef01bc29a8f12655973330b388baf3526[m
+Merge: cda65e6 95104f3
+Author: notsag01 <79101798+notsag01@users.noreply.github.com>
+Date:   Tue Mar 9 17:39:09 2021 -0300
+
+    Merge pull request #18 from notsag01/plata_v1.13
+    
+    corregi el corousel promociones
+
+[33mcommit 95104f3e0156caae6460f177603e9511aeb24f22[m
+Author: notsag01 <gcordoba1981@gmail.com>
+Date:   Tue Mar 9 17:38:50 2021 -0300
+
+    corregi el corousel promociones
+
+[33mcommit cda65e67e8e8713d18f1b17320156ac4e11296fa[m
+Merge: e66be4e 7412afb
+Author: notsag01 <79101798+notsag01@users.noreply.github.com>
+Date:   Tue Mar 9 17:31:26 2021 -0300
+
+    Merge pull request #17 from notsag01/plata_v1.13
+    
+    Plata v1.13
+
+[33mcommit 7412afb43ef077b6e59a7423123dfe8b38188416[m
+Author: notsag01 <gcordoba1981@gmail.com>
+Date:   Tue Mar 9 17:30:26 2021 -0300
+
+    agregue las paginas oro y acero
+
+[33mcommit f40b407e92a60b0d902b722e7b9af9459ea0f701[m
+Author: notsag01 <gcordoba1981@gmail.com>
+Date:   Tue Mar 9 13:29:12 2021 -0300
+
+    breadscrumb
+
+[33mcommit 1593d3487957cf8b67801167e9a2b66f1c18b7aa[m
+Author: notsag01 <gcordoba1981@gmail.com>
+Date:   Tue Mar 9 10:26:03 2021 -0300
+
+    mas imagenes
+
+[33mcommit e66be4eb8a1728ce451529da715cbf9e6c3df314[m
+Author: notsag01 <gcordoba1981@gmail.com>
+Date:   Mon Mar 8 17:37:10 2021 -0300
+
+    buscando imagenes
+
+[33mcommit 0916d534dfbfee417c31815bad198087251ebc30[m
+Merge: d7ebee4 b3d674c
+Author: notsag01 <79101798+notsag01@users.noreply.github.com>
+Date:   Sun Mar 7 19:42:40 2021 -0300
+
+    Merge pull request #16 from notsag01/plata_v1.12
+    
+    Plata v1.12
+
+[33mcommit b3d674cf5b80e7d06a15e9ee680ff65ca79d93c3[m[33m ([m[1;31morigin/plata_v1.12[m[33m)[m
+Author: notsag01 <gcordoba1981@gmail.com>
+Date:   Sun Mar 7 19:41:47 2021 -0300
+
+    animaciones
+
+[33mcommit d21bd9fbbe02e401857ccfd836da822bef6e6e30[m
+Author: notsag01 <gcordoba1981@gmail.com>
+Date:   Sun Mar 7 18:21:45 2021 -0300
+
+    agrande el carousel
+
+[33mcommit 0f2e4e4daf8ac6716d291aa59c67f3fd22fe7f50[m[33m ([m[1;31morigin/plata_v1.11[m[33m)[m
+Author: notsag01 <gcordoba1981@gmail.com>
+Date:   Sun Mar 7 17:58:44 2021 -0300
+
+    corousel promociones
+
+[33mcommit 2e9d0432d10bcc97b8b2efb230d29aeff174d782[m[33m ([m[1;31morigin/plata_v1.10[m[33m)[m
+Author: notsag01 <gcordoba1981@gmail.com>
+Date:   Sun Mar 7 17:32:50 2021 -0300
+
+    cambie titulos y subtitulos
+
+[33mcommit d7ebee4dc8481ab2a600938207f3891c55270656[m
+Merge: 1494f46 a04acdd
+Author: notsag01 <79101798+notsag01@users.noreply.github.com>
+Date:   Fri Mar 5 17:49:06 2021 -0300
+
+    Merge pull request #15 from notsag01/plata_v1.3
+    
+    arreglando navegador
+
+[33mcommit a04acdd4fcd38572a7600682f15465f0b4695bee[m[33m ([m[1;31morigin/plata_v1.3[m[33m)[m
+Author: notsag01 <gcordoba1981@gmail.com>
+Date:   Fri Mar 5 17:49:43 2021 -0300
+
+    arreglando navegador
+
+[33mcommit de371673431658881cf9f38949a5abcd566cc929[m
+Author: notsag01 <gcordoba1981@gmail.com>
+Date:   Fri Mar 5 17:47:08 2021 -0300
+
+     arreglando tamaño de brand
+
+[33mcommit 1494f4612ccbe271e8c674f5066727836fd04dc9[m
+Merge: 5293740 de37167
+Author: notsag01 <79101798+notsag01@users.noreply.github.com>
+Date:   Fri Mar 5 17:46:41 2021 -0300
+
+    Merge pull request #14 from notsag01/plata_v1.3
+    
+     arreglando tamaño de brand
+
+[33mcommit 9fdf1d164aba0a899a9716238c53afbc414c2298[m
+Author: notsag01 <gcordoba1981@gmail.com>
+Date:   Fri Mar 5 17:40:19 2021 -0300
+
+    modifique tamaño de brand
+
+[33mcommit 5293740d42988e9e8911afce145781e2173eb991[m
+Merge: 6e8d622 9fdf1d1
+Author: notsag01 <79101798+notsag01@users.noreply.github.com>
+Date:   Fri Mar 5 17:39:42 2021 -0300
+
+    Merge pull request #13 from notsag01/plata_v1.3
+    
+    modifique tamaño de brand
+
+[33mcommit 6e8d62277b17f32fb3b7922cd897645d941f9ea0[m
+Merge: cca79aa bde1401
+Author: notsag01 <79101798+notsag01@users.noreply.github.com>
+Date:   Fri Mar 5 17:36:37 2021 -0300
+
+    Merge pull request #12 from notsag01/plata_v1.3
+    
+    Plata v1.3
+
+[33mcommit bde140103f314616a70eb4e40a382329a3077fe4[m
+Author: notsag01 <gcordoba1981@gmail.com>
+Date:   Fri Mar 5 17:36:36 2021 -0300
+
+    terminando con la seccion plata
+
+[33mcommit 59093ddb360aa3d976f6d96b3ff149654bd56f8c[m
+Author: notsag01 <gcordoba1981@gmail.com>
+Date:   Fri Mar 5 16:54:28 2021 -0300
+
+    falta el puto footer
+
+[33mcommit 3cca393dd99612dd58009f99ad634f6790b02f46[m[33m ([m[1;31morigin/plata_v1.2[m[33m)[m
+Author: notsag01 <gcordoba1981@gmail.com>
+Date:   Thu Mar 4 17:42:08 2021 -0300
+
+    arregle las columnas
+
+[33mcommit cca79aab4290d49a35bdc133db8101a759a441a9[m
+Merge: 6dce29a 3cca393
+Author: notsag01 <79101798+notsag01@users.noreply.github.com>
+Date:   Thu Mar 4 17:41:35 2021 -0300
+
+    Merge pull request #11 from notsag01/plata_v1.2
+    
+    arregle las columnas
+
+[33mcommit 6dce29a938eff40aec31d23da2eef7c62fd92e80[m
+Merge: 8e7512c 38a77b3
+Author: notsag01 <79101798+notsag01@users.noreply.github.com>
+Date:   Thu Mar 4 17:37:18 2021 -0300
+
+    Merge pull request #10 from notsag01/plata_v1.2
+    
+    Plata v1.2
+
+[33mcommit 38a77b34ef850d2ebfd1eb2f1139c42ac9f0f5b8[m
+Author: notsag01 <gcordoba1981@gmail.com>
+Date:   Thu Mar 4 17:37:01 2021 -0300
+
+    haciendo el cuerpo de seccion Plata
+
+[33mcommit ca9effada4c2681e1ff70b2797ba2bbeb6d98bb1[m
+Author: notsag01 <gcordoba1981@gmail.com>
+Date:   Thu Mar 4 14:58:56 2021 -0300
+
+    primer paso de seccion Plata
+
+[33mcommit 8e7512c70223a4bbdf769ba256ff2b39ac9c0a0a[m
+Merge: d88b495 16e9519
+Author: notsag01 <79101798+notsag01@users.noreply.github.com>
+Date:   Thu Mar 4 13:11:38 2021 -0300
+
+    Merge pull request #9 from notsag01/plata_v1
+    
+    iniciando pagina plata
+
+[33mcommit 16e95191170cce6c7021411e1f9027fe1fc6528b[m[33m ([m[1;31morigin/plata_v1[m[33m)[m
+Author: notsag01 <gcordoba1981@gmail.com>
+Date:   Thu Mar 4 10:17:08 2021 -0300
+
+    iniciando pagina plata
+
+[33mcommit d88b4955ccd7d4ae62fe826fcee1eaade18f318d[m
+Merge: d35afeb 99e3a77
+Author: notsag01 <79101798+notsag01@users.noreply.github.com>
+Date:   Tue Mar 2 17:22:05 2021 -0300
+
+    Merge pull request #8 from notsag01/pya_vp6
+    
+    seguimos con el footer
+
+[33mcommit 99e3a77cba3429c247f8e409b737781bea55b0e6[m[33m ([m[1;31morigin/pya_vp6[m[33m)[m
+Author: notsag01 <gcordoba1981@gmail.com>
+Date:   Tue Mar 2 17:22:27 2021 -0300
+
+    seguimos con el footer
+
+[33mcommit 51e61aa2acbbba7b5e6aec7519e621d9cadbc7db[m
+Author: notsag01 <gcordoba1981@gmail.com>
+Date:   Tue Mar 2 17:16:42 2021 -0300
+
+    haciendo el footer
+
+[33mcommit d35afebb396396a51f01bd886379776b8aea0b64[m
+Merge: 6302c02 51e61aa
+Author: notsag01 <79101798+notsag01@users.noreply.github.com>
+Date:   Tue Mar 2 17:16:31 2021 -0300
+
+    Merge pull request #7 from notsag01/pya_vp6
+    
+    Pya vp6
+
+[33mcommit 4208d3e85a4652597a2bb906d8d3d754acf9bbfc[m
+Author: notsag01 <gcordoba1981@gmail.com>
+Date:   Tue Mar 2 15:30:01 2021 -0300
+
+    fondo fijo, cambie el color del navegador, comence con el pie
+
+[33mcommit f16af63fc1e26dd21edaa3ba906616bcbd568edc[m
+Author: notsag01 <gcordoba1981@gmail.com>
+Date:   Tue Mar 2 14:45:09 2021 -0300
+
+    cambie el color y el tamaño de las fuentes de los titulos
+
+[33mcommit 54d11e432bebd3676576076137f230e0d77c405f[m
+Author: notsag01 <gcordoba1981@gmail.com>
+Date:   Mon Mar 1 17:33:56 2021 -0300
+
+    Update estilos.css
+
+[33mcommit 6302c02b845e9dde209eea2d2b1b9abb13509b4e[m
+Merge: d78ab53 54d11e4
+Author: notsag01 <79101798+notsag01@users.noreply.github.com>
+Date:   Mon Mar 1 17:32:35 2021 -0300
+
+    Merge pull request #6 from notsag01/pya_vp6
+    
+    Update estilos.css
+
+[33mcommit d78ab53ebcbf3759995b05ac9547ad49f2e160f3[m
+Merge: 4b7a4df 46f5732
+Author: notsag01 <79101798+notsag01@users.noreply.github.com>
+Date:   Mon Mar 1 17:21:31 2021 -0300
+
+    Merge pull request #5 from notsag01/pya_vp6
+    
+    Pya vp6
+
+[33mcommit 46f5732b84559111fcddd774d949d36cafe26489[m
+Author: notsag01 <gcordoba1981@gmail.com>
+Date:   Mon Mar 1 17:20:43 2021 -0300
+
+    hacer el footer
+
+[33mcommit 7fbfcf5f14617194d004fc2abcdabe41dc4d47e6[m
+Author: notsag01 <gcordoba1981@gmail.com>
+Date:   Mon Mar 1 17:10:28 2021 -0300
+
+    listo el direccionamiento del promociones
+
+[33mcommit 90483f6f5ca579e8e3db2446d4ade6fe5c6cc0d2[m
+Author: notsag01 <gcordoba1981@gmail.com>
+Date:   Mon Mar 1 17:03:03 2021 -0300
+
+    poner un href al carousel
+
+[33mcommit 8afa2e38bdecba88384dfe395886023b0fc257b7[m
+Author: notsag01 <gcordoba1981@gmail.com>
+Date:   Mon Mar 1 15:49:35 2021 -0300
+
+    cree la pagina plata, hay que trabajarla
+
+[33mcommit 4b7a4dfc98911f2c473d08597e1f578ce624f97c[m
+Merge: 38d7ae6 adee97d
+Author: notsag01 <79101798+notsag01@users.noreply.github.com>
+Date:   Mon Mar 1 13:30:40 2021 -0300
+
+    Merge pull request #4 from notsag01/pya_vp4
+    
+    falta nav, falta fixed, entre otras
+
+[33mcommit adee97d29d7f63833f16efbeb330b58791309c1f[m[33m ([m[1;31morigin/pya_vp4[m[33m)[m
+Author: notsag01 <gcordoba1981@gmail.com>
+Date:   Sun Feb 28 21:00:11 2021 -0300
+
+    falta nav, falta fixed, entre otras
+
+[33mcommit 38d7ae6e19dc6ddbf172e3773c1d9f14deee02a5[m
+Merge: 52e43cc b107920
+Author: notsag01 <79101798+notsag01@users.noreply.github.com>
+Date:   Fri Feb 26 17:04:13 2021 -0300
+
+    Merge pull request #3 from notsag01/index_v2
+    
+    Index v2
+
+[33mcommit b107920ac545b185de55aafba7711460863c4b9d[m[33m ([m[1;31morigin/index_v2[m[33m)[m
+Author: notsag01 <gcordoba1981@gmail.com>
+Date:   Fri Feb 26 17:03:10 2021 -0300
+
+    hay que arreglar los espaicios en blanco
+
+[33mcommit 2b5bc2180212629881759c60d7f85f582073d854[m
+Author: notsag01 <gcordoba1981@gmail.com>
+Date:   Fri Feb 26 16:08:53 2021 -0300
+
+    agregue col
+
+[33mcommit 93afd312fb798829b68957052455ddc47c605fe1[m
+Author: notsag01 <gcordoba1981@gmail.com>
+Date:   Fri Feb 26 15:43:30 2021 -0300
+
+    actualizo clon
+
+[33mcommit 52e43ccee776132efebd0cd4db2469a9d860ffd5[m
+Author: notsag01 <gcordoba1981@gmail.com>
+Date:   Thu Feb 25 17:21:39 2021 -0300
+
+    subo al repositorio
+
+[33mcommit 0f2b3aea766a805a174d4ce139a37d1a15371b39[m
+Author: notsag01 <gcordoba1981@gmail.com>
+Date:   Thu Feb 25 16:18:35 2021 -0300
+
+    cambie la tipografia
+
+[33mcommit 8fd4e6bb6e2ea892dde25ed2ee7b2de5e3bcbd9e[m
+Merge: b83c83d 3d935aa
+Author: notsag01 <79101798+notsag01@users.noreply.github.com>
+Date:   Wed Feb 24 16:44:20 2021 -0300
+
+    Merge pull request #2 from notsag01/index_p2
+    
+    modifique items navbar, dividi las cards
+
+[33mcommit 3d935aa70fae2c9dff3e0ddf234d49607ea9de9f[m[33m ([m[1;31morigin/index_p2[m[33m)[m
+Author: notsag01 <gcordoba1981@gmail.com>
+Date:   Wed Feb 24 16:46:10 2021 -0300
+
+    modifique items navbar, dividi las cards
+
+[33mcommit 39efcbe1ec2973d1d03b568eb263259410951fc8[m[33m ([m[1;31morigin/index_p1[m[33m)[m
+Author: notsag01 <gcordoba1981@gmail.com>
+Date:   Wed Feb 24 16:09:20 2021 -0300
+
+    modificaciones navbar, puse fotos
+
+[33mcommit b83c83d451d91661904f28b2aabe2839e042f8db[m
+Merge: 476551d 39efcbe
+Author: notsag01 <79101798+notsag01@users.noreply.github.com>
+Date:   Wed Feb 24 16:08:22 2021 -0300
+
+    Merge pull request #1 from notsag01/index_p1
+    
+    modificaciones navbar, puse fotos
+
+[33mcommit 476551d2c1a686d7c7629962315a85ef26b24d8d[m
+Author: notsag01 <gcordoba1981@gmail.com>
+Date:   Tue Feb 23 17:21:59 2021 -0300
+
+    alinie el navbar
+
+[33mcommit 0d62bfe5dde28f988f3f11496aba5ed26de4211b[m
+Author: notsag01 <gcordoba1981@gmail.com>
+Date:   Tue Feb 23 17:14:36 2021 -0300
+
+    empezando a trabajar con la pagina
+
+[33mcommit 7d3d316fa5711c64d30c506f9a0eb3a7df837d6a[m
+Author: notsag01 <gcordoba1981@gmail.com>
+Date:   Mon Feb 15 13:08:05 2021 -0300
+
+    subir
