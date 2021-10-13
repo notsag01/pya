@@ -111,9 +111,6 @@ footer{
     width: 100%;
 }
 /* pie de pagina */
-.iconos{
-   
-}
 .icono{
     padding: 5px;
     margin-left: 3px;
@@ -138,11 +135,8 @@ footer{
     border: 1px solid black;
     box-sizing: border-box;
     padding: 1px;
-    margin: auto;
-    
-   
+    margin: auto;  
 }
-
 .imgProductoTipo{
     width: 200px;
     height: 200px;
